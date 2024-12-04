@@ -26,7 +26,7 @@ public class Ejemplo02 {
          System.out.println("Ingrese el limite de la tabla");
          limiteT = entrada.nextInt();
          
-        while(numT <=3){
+        while(numero1 <=numT){
             while(numero1 <= limiteT){
                 multiplicacion = numero2 * numero1;
                 System.out.printf("%d * %d = %d\n",
